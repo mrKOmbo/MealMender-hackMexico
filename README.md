@@ -1,6 +1,6 @@
 # Hackathon Mexico • 2024
 
-Hello, welcome!
+Hi, welcome!
 
 This workspace is proposed as the main repository for the competition where our members took part to solve a programming problem "Social Responsability" (for more information...[hackmexico - AngelHack](https://tribegroup.notion.site/Project-Submission-ecb29f5d5d694d3081546db501ace283)).
 
