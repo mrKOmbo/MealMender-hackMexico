@@ -6,4 +6,4 @@ This workspace is proposed as the main repository for the competition where our 
 
 The focus of this repository is to be able to save the documentation of our entire project, to be able to use version management to place the project and to have a means to consult important information during the competition.
 
-This is our prototype: [Figma]{https://www.figma.com/proto/FDjWnBAIOOYNA1VBqyQnNT/Food-App-(Community)?node-id=0%3A1&t=VZasKdJu2PNjGeVG-1}
+This is our prototype: [Figma](https://www.figma.com/proto/FDjWnBAIOOYNA1VBqyQnNT/Food-App-(Community)?node-id=0%3A1&t=VZasKdJu2PNjGeVG-1)
